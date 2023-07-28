@@ -28,6 +28,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 💼 Work Experience :
+- 🔤 Title : ☁️ Full Stack developer
+- 🖥️ Company : Elateup
+- ⏰ Duration : July 2023 - now
+- ➕ Description : working on many international projects, fixing bugs, developing new features, dev,test and deploy web apps from scratch.
+- 🧰 Tools : Js/Ts frameworks,libraries
+##
 - 🔤 Title : ☁️ Full Stack developer 
 - 🖥️ Company : PCP
 - ⏰ Duration : January 2023 - March 2023 
